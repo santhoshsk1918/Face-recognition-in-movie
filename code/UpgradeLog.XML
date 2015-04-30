@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MultiFaceRec">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\bilal\Desktop\code\MultiFaceRec.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\bilal\Desktop\code\MultiFaceRec.suo">
+</Property><Property Name="Date" Value="Wednesday, April 10, 2013">
+</Property><Property Name="Time" Value="20:39 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MultiFaceRec.sln" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\MultiFaceRec.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MultiFaceRec.suo" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\MultiFaceRec.suo">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="MultiFaceRec.csproj" Description="Project file successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\MultiFaceRec.csproj">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="MultiFaceRec.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\MultiFaceRec.csproj.user">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="1st.cs" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\1st.cs">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="1st.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\1st.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="EigenObjectRecognizer.cs" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\EigenObjectRecognizer.cs">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Form2.cs" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Form2.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Login.cs" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Login.cs">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Login.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Login.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="MainForm.cs" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="MainForm.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Program.cs" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\MultiFaceRec.vshost.exe.manifest" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\MultiFaceRec.vshost.exe.manifest">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Resources\facerecEigenfaces.jpg" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Resources\facerecEigenfaces.jpg">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Resources\title bar2 copy.png" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Resources\title bar2 copy.png">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Resources\face-recognition.jpg" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Resources\face-recognition.jpg">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Resources\Title bar copy.png" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Resources\Title bar copy.png">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Resources\Face-Detection-550x351.png" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Resources\Face-Detection-550x351.png">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Resources\FaceDetectionPatentLarge.png" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Resources\FaceDetectionPatentLarge.png">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Resources\FaceDetectionPatentLarge.jpg" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Resources\FaceDetectionPatentLarge.jpg">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\cv110.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\cv110.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\cvaux110.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\cvaux110.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\cvextern.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\cvextern.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\cxcore110.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\cxcore110.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\Donate.html" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\Donate.html">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\Emgu.CV.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\Emgu.CV.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\Emgu.CV.GPU.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\Emgu.CV.GPU.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\Emgu.CV.ML.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\Emgu.CV.ML.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\Emgu.CV.UI.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\Emgu.CV.UI.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\Emgu.CV.UI.xml" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\Emgu.CV.UI.xml">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\Emgu.CV.xml" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\Emgu.CV.xml">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\Emgu.Util.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\Emgu.Util.dll">
+</Event><Event ErrorLevel="2" Project="MultiFaceRec" Source="bin\Debug\Emgu.Util.xml" Description="Failed to backup file as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\Emgu.Util.xml">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\haarcascade_frontalface_alt_tree.xml" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\haarcascade_frontalface_alt_tree.xml">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\haarcascade_frontalface_default.xml" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\haarcascade_frontalface_default.xml">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\highgui110.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\highgui110.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\MultiFaceRec.exe" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\MultiFaceRec.exe">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\MultiFaceRec.pdb" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\MultiFaceRec.pdb">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\MultiFaceRec.vshost.exe" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\MultiFaceRec.vshost.exe">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\opencv_calib3d220.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\opencv_calib3d220.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\opencv_contrib220.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\opencv_contrib220.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\opencv_core220.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\opencv_core220.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\opencv_features2d220.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\opencv_features2d220.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\opencv_ffmpeg220.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\opencv_ffmpeg220.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\opencv_flann220.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\opencv_flann220.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\opencv_gpu220.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\opencv_gpu220.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\opencv_highgui220.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\opencv_highgui220.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\opencv_imgproc220.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\opencv_imgproc220.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\opencv_legacy220.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\opencv_legacy220.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\opencv_ml220.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\opencv_ml220.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\opencv_objdetect220.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\opencv_objdetect220.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="bin\Debug\opencv_video220.dll" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\bin\Debug\opencv_video220.dll">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="haarcascade_frontalface_default.xml" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\haarcascade_frontalface_default.xml">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="1st.resx" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\1st.resx">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Form2.resx" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Login.resx" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Login.resx">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="MainForm.resx" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\bilal\Desktop\code\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MultiFaceRec" Source="MultiFaceRec.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="MultiFaceRec" Source="MultiFaceRec.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="MultiFaceRec.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MultiFaceRec.sln" Description="Converted">
+</Event></UpgradeLog>

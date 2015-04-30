@@ -1,0 +1,42 @@
+E:\Face reg Project2\Face reg Project\code\bin\Release\MultiFaceRec.exe.config
+E:\Face reg Project2\Face reg Project\code\bin\Release\MultiFaceRec.exe
+E:\Face reg Project2\Face reg Project\code\bin\Release\MultiFaceRec.pdb
+E:\Face reg Project2\Face reg Project\code\bin\Release\Emgu.CV.dll
+E:\Face reg Project2\Face reg Project\code\bin\Release\Emgu.CV.UI.dll
+E:\Face reg Project2\Face reg Project\code\bin\Release\Emgu.Util.dll
+E:\Face reg Project2\Face reg Project\code\bin\Release\Emgu.CV.xml
+E:\Face reg Project2\Face reg Project\code\bin\Release\Emgu.CV.UI.xml
+E:\Face reg Project2\Face reg Project\code\bin\Release\Emgu.Util.xml
+E:\Face reg Project2\Face reg Project\code\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec._1st.resources
+E:\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.intermediate.resources
+E:\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.onefacedetection.resources
+E:\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.Form2.resources
+E:\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.Login.resources
+E:\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.FrmPrincipal.resources
+E:\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.Properties.Resources.resources
+E:\Face reg Project2\Face reg Project\code\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Face reg Project2\Face reg Project\code\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.exe
+E:\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.pdb
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\bin\Release\MultiFaceRec.exe.config
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\bin\Release\MultiFaceRec.exe
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\bin\Release\MultiFaceRec.pdb
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\bin\Release\Emgu.CV.dll
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\bin\Release\Emgu.CV.UI.dll
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\bin\Release\Emgu.Util.dll
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\bin\Release\Emgu.CV.xml
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\bin\Release\Emgu.CV.UI.xml
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\bin\Release\Emgu.Util.xml
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec._1st.resources
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.intermediate.resources
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.onefacedetection.resources
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.Form2.resources
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.Login.resources
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.FrmPrincipal.resources
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.Properties.Resources.resources
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.exe
+E:\Santhosh\8th sem projects\Face Rec Project\Face reg Project2\Face reg Project\code\obj\x86\Release\MultiFaceRec.pdb
